@@ -1,0 +1,27 @@
+hexadeximal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+# _ _ _ _ _ _ 
+
+0 = ausência de cor
+
+F = máximo de cor
+
+#000000 = preto
+
+#FFFFFF = branco
+
+#FF0000 = vermelho
+
+
+OUUUUU
+
+RGB 0,1,2,3,4...255
+
+0 = ausência de cor
+
+255 = máximo de cor
+
+rgb(255,255,255)
+rgb(0,0,255)
